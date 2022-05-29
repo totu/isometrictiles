@@ -7,9 +7,8 @@ const duration = 2000;
 
 const tileBob = [
     { transform: 'translate(0, 0px)' }, 
-    { transform: 'translate(0, 10px)' }, 
-    { transform: 'translate(0, -10px)' }, 
-    { transform: 'translate(0, 0px)' }, 
+    { transform: 'translate(0, 20px)' }, 
+    { transform: 'translate(0, 0px)' }
 ];
 
 const tileTiming = {
